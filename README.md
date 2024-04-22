@@ -1,6 +1,6 @@
 <h1>Haiii>_<</h1>
   
-!500px[IMG_1673](https://github.com/EduardoVLM/EduardoVLM/assets/144334218/414de42f-b007-4062-9e86-3c8b323c6a63)
+![IMG_1673](https://github.com/EduardoVLM/EduardoVLM/assets/144334218/414de42f-b007-4062-9e86-3c8b323c6a63)
 
 
 Im Edo!
