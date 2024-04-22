@@ -6,6 +6,7 @@
 <h2>Im Edo!</h2>
 
 I am an IT student at Kuben Videregående Skole.
+
 I like back-end programing and game development.
 
 
