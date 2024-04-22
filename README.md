@@ -1,6 +1,7 @@
 <h1>Haiii>_<</h1>
   
-![IMG_1673](https://github.com/EduardoVLM/EduardoVLM/assets/144334218/414de42f-b007-4062-9e86-3c8b323c6a63)
+<img src="![IMG_1673](https://github.com/EduardoVLM/EduardoVLM/assets/144334218/6bfa7161-4c4b-4cb7-8ce6-6db9b6da1c5f)
+" alt="Miku haii" width="500" height="750">
 
 
 Im Edo!
