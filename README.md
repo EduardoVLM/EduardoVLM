@@ -1,6 +1,6 @@
 <h1>Haiii>_<</h1>
   
-![IMG_1673](https://github.com/EduardoVLM/EduardoVLM/assets/144334218/6bfa7161-4c4b-4cb7-8ce6-6db9b6da1c5f)
+![nerdMiku](https://github.com/EduardoVLM/EduardoVLM/assets/144334218/2072f229-d764-40c7-870b-1fb99bb487ef)
 
 
 
